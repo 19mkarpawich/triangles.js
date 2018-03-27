@@ -1,8 +1,11 @@
 /**
-
-Copyright (c) 2018 Maksim Surguy and Max Karpawich
+ * 
+Copyright (c) 2018 Max Karpawich
 Licensed under the MIT License (MIT)
 
+Uses modified source code from https://github.com/msurguy/triangles
+Copyright (c) 2014 Maksim Surguy
+Licensed under the MIT License (MIT)
 **/
 
 /**
