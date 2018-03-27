@@ -4,6 +4,9 @@ The MIT License (MIT)
 
 Copyright (c) 2018 Max Karpawich
 
+Uses modified source code from https://github.com/msurguy/triangles
+Copyright (c) 2014 Maksim Surguy per the MIT License (MIT)
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
