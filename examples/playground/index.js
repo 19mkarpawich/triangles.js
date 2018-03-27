@@ -4,8 +4,7 @@ Copyright (c) 2018 Max Karpawich
 Licensed under the MIT License (MIT)
 
 Uses modified source code from https://github.com/msurguy/triangles
-Copyright (c) 2014 Maksim Surguy
-Licensed under the MIT License (MIT)
+Copyright (c) 2014 Maksim Surguy per the MIT License (MIT)
 **/
 
 /**
